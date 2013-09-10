@@ -1,0 +1,16 @@
+{
+  "files": [
+    "doc/user-guide/section_cinder_cli_commands.xml",
+    "doc/user-guide/section_cinder_cli_manage_volumes.xml",
+    "doc/user-guide/section_dashboard_access_and_security.xml"
+  ],
+  "formats": {
+    "pdf": {
+      "version": "print"
+    },
+    "epub": {},
+    "mobi": {},
+    "html": {}
+  },
+  "theme": "oreillymedia/atlas_tech1c_theme"
+}
